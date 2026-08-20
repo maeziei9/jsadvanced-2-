@@ -175,9 +175,6 @@ sortOrder.addEventListener("change", () => {
 
 });
 
-
-
-
 function iterateRecords() {
     // const tblTHs = new Array();
 
